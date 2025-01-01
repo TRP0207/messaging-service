@@ -1,0 +1,3 @@
+com\demo\messageservice\consumer\ConsumerService.class
+com\demo\messageservice\producer\ProducerService.class
+com\demo\messageservice\MessageService.class
